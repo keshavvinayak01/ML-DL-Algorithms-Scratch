@@ -1,3 +1,3 @@
 # Machine-Learning-Algorithms-Scratch
 
-### Contains Some Popular Machine Learning Algorithms implemented from scrath.
+### Contains Some Popular Machine Learning Algorithms implemented from scratch.
